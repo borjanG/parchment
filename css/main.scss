@@ -14,7 +14,7 @@ $small-width: 480px;
 body {
     margin: 0;
     font-family: "Inconsolata";
-    background-color: #FFFFDD;
+    background-color: #5ece6f;
     min-height: 100%;
 }
 a {
@@ -216,7 +216,7 @@ code {
         font-style: italic;
     }
     .profile-picture {
-        width: 15%;
+        width: 30%;
         margin: 5px 5px 5px 5px;
         float: right;
         p & {
