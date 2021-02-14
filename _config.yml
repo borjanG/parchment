@@ -1,12 +1,12 @@
-title: Parchment
-author: pro-panda
-subtitle: The life of a frustrated engineer
+title: borjan geshkovski
+author: borjanG
+subtitle: Trying out a website
 
-url: "https://pro-panda.github.io"
+url: "https://borjanG.github.io"
 baseurl: "/parchment"
 
 footer_only_homepage: true
-footer_url: "https://github.com/pro-panda"
+footer_url: "https://github.com/borjanG"
 footer_text: "Theme by pro-panda"
 
 profile-picture: assets/profile.png
