@@ -3,14 +3,20 @@ layout: default
 title: Talks
 ---
 
-- 09.12.2020 The interplay of Deep Learning and Control Theory, AG Mathematics of Deep Learning, FAU Erlangen-Nürnberg (Germany) | PDF Slides
-- 23.10.2020 Large-time asymptotics in Deep Learning, Seminario de Estadísticas. UAM | PDF Slides
-- 24.08.2020 Turnpike Control and Deep Learning, 2nd. Symposium on Machine Learning and Dynamical Systems. Fields Institute | PDF Slides
-- 30.06.2020 Control in Interfaces and Deep Learning, 3rd. ConFlex workshop. Imperial College London | PDF Slides
-- 21.01.2020 Mathematical Control and Deep Learning, FAU – Friedrich Alexander Universität, Erlangen-Nürnberg (Germany) | PDF Slides
-- 23.08.2019 Control of perturbed porous medium flow, 8th Workshop on PDE, Optimal Design and Numerics, Centro de Ciencias “Pedro Pascual”, Benasque, Spain | PDF Slides
-- 06.05.2019 Control of linearized porous medium flow, Workshop on homogenization, spectral theory and other topics in PDEs, ICMAT Madrid, Spain. PDF Slides
-- 20.02.2019 Control of free boundary problems, Second Network meeting of the ConFlex consortium, Bilbao, Spain. PDF Slides
-- 20.01.2019 Control and free boundaries, Friedrich-Alexander Universität, Erlangen, Germany. PDF Slides
-- 27.04.2018 Obstacle problems, optimal control and numerics, DeustoTech, Bilbao, Spain. PDF Slides
+<b>Upcoming talks:</b>
+
+- <a href="https://www.siam.org/conferences/cm/conference/ct21">SIAM Conference on Control and its Applications</a>, Spokane WA (USA), July 19-21, 2021.
+
+<b>Past talks:</b>
+
+- <a href="https://cmc.deusto.eus/wp-content/uploads/2020/02/seminar-BorjanG-09dec2020_min.pdf">The interplay of Deep Learning and Control Theory</a>, AG Mathematics of Deep Learning, FAU Erlangen-Nürnberg (Germany), 09.12.2020
+- <a href="https://cmc.deusto.eus/wp-content/uploads/2020/10/ccm-borjanGeshkovski-23oct2020.pdf">Large-time asymptotics in Deep Learning</a>, Seminario de Estadísticas, UAM (Spain) 23.10.2020
+- <a href="https://cmc.deusto.eus/wp-content/uploads/2020/02/NEW_zoom_fields_28.08.2020-Borjan.pdf">Turnpike Control and Deep Learning</a>, 2nd. <a href="">Symposium on Machine Learning and Dynamical Systems</a>, Fields Institute (Canada), 24.08.2020
+- <a href="http://paginaspersonales.deusto.es/enrique.zuazua/documentos_public/archivos/projects/conflex-BorjanGeshkovski-30jun2020.pdf">Control in Interfaces and Deep Learning</a>, 3rd. ConFlex workshop, Imperial College London, 30.06.2020
+- <a href="">Mathematical Control and Deep Learning</a>, CAA Seminar, Friedrich Alexander Universität Erlangen-Nürnberg (Germany), 21.01.2020
+- <a href="https://cmc.deusto.eus/wp-content/uploads/2019/05/slides_compressed.pdf">Control of perturbed porous medium flow</a>, <a href="">8th Workshop on PDE, Optimal Design and Numerics</a>, Centro de Ciencias “Pedro Pascual”, Benasque (Spain), 23.08.2019
+- <a href="https://cmc.deusto.eus/wp-content/uploads/2019/05/ICMAT_Talk_Borjan.pdf">Control of linearized porous medium flow</a>,<a href="">Workshop on homogenization, spectral theory and other topics in PDEs</a>, ICMAT Madrid (Spain), 06.05.2019
+- <a href="https://cmc.deusto.eus/wp-content/uploads/2019/05/conflex_borjan.pdf">Control of free boundary problems</a>, Second Network meeting of the ConFlex consortium, Bilbao (Spain), 20.02.2019. 
+I was awarded the <a href="https://cmc.deusto.eus/borjan-conflex-prize/">"Best rewiew and presentation prize"</a>. 
+- <a href="https://cmc.deusto.eus/wp-content/uploads/2019/05/beamer_erlangen.pdf">Control and free boundaries</a>, Chair in Applied Mathematics 2 Seminar, Friedrich Alexander Universität Erlangen-Nürnberg (Germany), 20.01.2019
 
