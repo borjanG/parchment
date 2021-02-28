@@ -251,6 +251,10 @@ code {
         max-width: $max-width;
     }
 
+    img:hover {
+        transform: scaleX(-1);
+      }
+
     .color-red {
         color: #FF0F00;
     }

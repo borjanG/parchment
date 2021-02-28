@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Vita
 ---
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
@@ -12,6 +12,8 @@ I am also affiliated with the <a href="https://cmc.deusto.eus">Chair of Computat
 My research is centered on the analysis, control and applications of partial differential equations with moving interfaces (free boundaries), and more recently, on the intricate interplay of control theory and deep learning.
 
 I obtained a BSc (2016, cum laude) in Applied Mathematics and Computer Science, as well as an MSc (2018, summa cum laude) in Applied Mathematics, from the <a href="https://www.u-bordeaux.fr">University of Bordeaux</a>.
+
+My curriculum vitae can be found here.
 
 
 
