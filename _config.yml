@@ -22,6 +22,8 @@ navbar:
    link: "about"
  - name: "Publications"
    absolute-link: "https://scholar.google.com/citations?user=XxCmLvoAAAAJ&hl=en"
+ - name: "Talks"
+   link: "talks"
  - name: "Code"
    absolute-link: "https://github.com/borjanG"
  - name: "Contact"

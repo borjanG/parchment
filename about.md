@@ -13,7 +13,7 @@ My research is centered on the analysis, control and applications of partial dif
 
 I obtained a BSc (2016, cum laude) in Applied Mathematics and Computer Science, as well as an MSc (2018, summa cum laude) in Applied Mathematics, from the <a href="https://www.u-bordeaux.fr">University of Bordeaux</a>.
 
-My curriculum vitae can be found here.
+My curriculum vitae can be found <a href="">here</a>.
 
 
 
