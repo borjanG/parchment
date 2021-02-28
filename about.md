@@ -5,7 +5,9 @@ title: About
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-My name is Xinkai and I'm a Biostatistics PhD student at UCLA. If grad school days were recorded as $$n$$ dimensional vectors and I were to run a principle components analysis on my time, then statistics and music would be among my top PCs. For statistics, my research focuses on <span class="highlight-orange">statistical computing for massive datasets</span>. For music, I've been teaching myself piano and synthsesis. This site (```bLog(Likelihood)```) is about things that I'm learning in grad school: <span class="highlight-blue">math, statistics, machine learning, Julia</span> etc. That's it. Enjoy reading.
+Borjan Geshkovski is a PhD student and Marie Sklodowska Curie Fellow at the Universidad Autónoma de Madrid, Spain, since July 2018. He is scheduled to defend his PhD thesis in April, 2021. He is also affiliated with the Chair of Computational Mathematics at Fundación Deusto, Bilbao, Spain. Borjan has developed and analyzed methods to learn from small as well as large samples of high dimensional data, using analytical and probabilistic tools, within a multidisciplinary approach drawing concepts and techniques primarily from computer science but also from statistics, engineering and applied mathematics.
+
+Borjan obtained a BSc (cum laude) in Applied Mathematics and Computer Science (2016), as well as an MSc (summa cum laude) in Applied Mathematics (2018) at the University of Bordeaux, France.
 
 
 
