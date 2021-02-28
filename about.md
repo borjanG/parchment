@@ -3,7 +3,7 @@ layout: default
 title: Vita
 ---
 
-<img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
+<!-- <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}"> -->
 
 <a href="#">
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}"
