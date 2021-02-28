@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Infinite Monkey Theorem
-subtitle: as crazy as it sounds...
-tags: [math, tech]
+title: The interplay of control theory and deep learning
+subtitle: 
+tags: [math, stat, cs]
 ---
 
 <img style="float: right" src="../assets/monkey-typewriter.jpg">
