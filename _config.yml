@@ -18,10 +18,12 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "About"
+ - name: "Vita"
+   link: "about"
+ - name: "Research"
    link: "about"
  - name: "Publications"
-   absolute-link: "https://scholar.google.be/citations?user=UXNdqWgAAAAJ&hl=en&oi=ao"
+   absolute-link: "https://scholar.google.com/citations?user=XxCmLvoAAAAJ&hl=en"
  - name: "CV"
    absolute-link: "CV.pdf"
 
