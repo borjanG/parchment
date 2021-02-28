@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-<b>Address:</b> <i>Departamento de Matemáticas, Universidad Autónoma de Madrid, 28049 Madrid, Spain</i>
+<b>Address:</b> Departamento de Matemáticas, Universidad Autónoma de Madrid, 28049 Madrid, Spain
 
 <b>Email:</b> 
 <span class="color-#3b5998">myname.mysurname@uam.es</span> or <span class="color-#3b5998">mysurnamemyname@gmail.com</span> 
