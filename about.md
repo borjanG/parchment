@@ -5,11 +5,17 @@ title: Vita
 
 <!-- <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}"> -->
 
-<a href="#">
-<img src="{{site.baseurl}}/{{site.profile-picture}}"
-onmouseover="this.src='{{site.baseurl}}/{{site.hover-picture}}'"
-onmouseout="this.src='{{site.baseurl}}/{{site.profile-picture}}'"
-border="0" alt=""/></a>
+<script>
+function hover(element) {
+  element.setAttribute('src', '{{site.baseurl}}/{{site.hover-picture}}');
+}
+
+function unhover(element) {
+  element.setAttribute('src', '{{site.baseurl}}/{{site.profile-picture}}');
+}
+</script>
+
+<img id="my-img" src="{{site.baseurl}}/{{site.hover-picture}}" onmouseover="hover(this);" onmouseout="unhover(this);" />
 
 I am a PhD student and <a href="https://www.conflex.org">Marie Sklodowska-Curie Fellow</a> at the <a href="http://www.uam.es/UAM/Home.htm?language=es">Universidad Autónoma de Madrid</a> since July 2018, under the supervision of <a href="http://paginaspersonales.deusto.es/enrique.zuazua/">Enrique Zuazua</a>. 
 I am scheduled to defend my PhD thesis in April 2021. 
