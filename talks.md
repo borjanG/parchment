@@ -9,7 +9,8 @@ title: Talks
 
 <b>Past talks:</b>
 
-- <a href="https://cmc.deusto.eus/wp-content/uploads/2020/02/seminar-BorjanG-09dec2020_min.pdf">The interplay of Deep Learning and Control Theory</a>, AG Mathematics of Deep Learning, FAU Erlangen-Nürnberg (Germany, virtual), 09.12.2020
+- <a href="">The interplay of Deep Learning and Control Theory</a>, Machine Learning in Madrid, CSIC (Spain, virtual), 22.02.2021
+- <a href="https://cmc.deusto.eus/wp-content/uploads/2020/02/seminar-BorjanG-09dec2020_min.pdf">The interplay of Deep Learning and Control Theory</a>, AG Mathematics of Deep Learning, FAU Erlangen-Nürnberg (Germany, virtual), 09.12.2020. <a href="https://www.fau.tv/clip/id/26249">Video</a>
 - <a href="https://cmc.deusto.eus/wp-content/uploads/2020/10/ccm-borjanGeshkovski-23oct2020.pdf">Large-time asymptotics in Deep Learning</a>, Seminario de Estadísticas, UAM (Spain, virtual) 23.10.2020
 - <a href="https://cmc.deusto.eus/wp-content/uploads/2020/02/NEW_zoom_fields_28.08.2020-Borjan.pdf">Turnpike Control and Deep Learning</a>, <a href="http://www.fields.utoronto.ca/activities/20-21/dynamical">2nd. Symposium on Machine Learning and Dynamical Systems</a>, Fields Institute (Canada, virtual), 24.08.2020. <a href="https://www.youtube.com/watch?v=QO01l4aQDWk">YouTube video</a>.
 - <a href="http://paginaspersonales.deusto.es/enrique.zuazua/documentos_public/archivos/projects/conflex-BorjanGeshkovski-30jun2020.pdf">Control in Interfaces and Deep Learning</a>, 3rd. ConFlex workshop, Imperial College London (UK, virtual), 30.06.2020
