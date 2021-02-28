@@ -11,7 +11,7 @@ title: Talks
 
 - <a href="https://cmc.deusto.eus/wp-content/uploads/2020/02/seminar-BorjanG-09dec2020_min.pdf">The interplay of Deep Learning and Control Theory</a>, AG Mathematics of Deep Learning, FAU Erlangen-Nürnberg (Germany), 09.12.2020
 - <a href="https://cmc.deusto.eus/wp-content/uploads/2020/10/ccm-borjanGeshkovski-23oct2020.pdf">Large-time asymptotics in Deep Learning</a>, Seminario de Estadísticas, UAM (Spain) 23.10.2020
-- <a href="https://cmc.deusto.eus/wp-content/uploads/2020/02/NEW_zoom_fields_28.08.2020-Borjan.pdf">Turnpike Control and Deep Learning</a>, 2nd. <a href="">Symposium on Machine Learning and Dynamical Systems</a>, Fields Institute (Canada), 24.08.2020
+- <a href="https://cmc.deusto.eus/wp-content/uploads/2020/02/NEW_zoom_fields_28.08.2020-Borjan.pdf">Turnpike Control and Deep Learning</a>, 2nd. <a href="http://www.fields.utoronto.ca/activities/20-21/dynamical">Symposium on Machine Learning and Dynamical Systems</a>, Fields Institute (Canada), 24.08.2020
 - <a href="http://paginaspersonales.deusto.es/enrique.zuazua/documentos_public/archivos/projects/conflex-BorjanGeshkovski-30jun2020.pdf">Control in Interfaces and Deep Learning</a>, 3rd. ConFlex workshop, Imperial College London, 30.06.2020
 - <a href="">Mathematical Control and Deep Learning</a>, CAA Seminar, Friedrich Alexander Universität Erlangen-Nürnberg (Germany), 21.01.2020
 - <a href="https://cmc.deusto.eus/wp-content/uploads/2019/05/slides_compressed.pdf">Control of perturbed porous medium flow</a>, <a href="http://benasque.org/2019pde/">8th Workshop on PDE, Optimal Design and Numerics</a>, Centro de Ciencias “Pedro Pascual”, Benasque (Spain), 23.08.2019
