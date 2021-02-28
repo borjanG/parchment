@@ -24,8 +24,8 @@ navbar:
    absolute-link: "https://scholar.google.com/citations?user=XxCmLvoAAAAJ&hl=en"
  - name: "Code"
    absolute-link: "https://github.com/borjanG"
- - name: "Misc"
-   absolute-link: "CV.pdf"
+ - name: "Contact"
+   link: "contact"
 
 markdown: kramdown
 kramdown:
