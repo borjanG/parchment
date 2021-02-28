@@ -5,7 +5,7 @@ title: Contact
 
 <b>Address:</b> <i>Departamento de Matemáticas, Universidad Autónoma de Madrid, 28049 Madrid, Spain</i>
 
-<b>Email:</b> <p style="color:#3b5998;">myname.mysurname@uam.es</p> or <p style="color:red;">mysurnamemyname@gmail.com</p>
+<b>Email:</b> <p style="color:red;">myname.mysurname@uam.es</p> or <p style="color:red;">mysurnamemyname@gmail.com</p>
 
 Follow me on <a href="https://twitter.com/g_borjan">Twitter</a>: 
 
