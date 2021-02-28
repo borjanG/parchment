@@ -5,9 +5,12 @@ title: About
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-Borjan Geshkovski is a PhD student and Marie Sklodowska Curie Fellow at the Universidad Autónoma de Madrid, Spain, since July 2018. He is scheduled to defend his PhD thesis in April, 2021. He is also affiliated with the Chair of Computational Mathematics at Fundación Deusto, Bilbao, Spain. Borjan has developed and analyzed methods to learn from small as well as large samples of high dimensional data, using analytical and probabilistic tools, within a multidisciplinary approach drawing concepts and techniques primarily from computer science but also from statistics, engineering and applied mathematics.
+I am a PhD student and Marie Sklodowska-Curie Fellow at the <a href="http://www.uam.es/UAM/Home.htm?language=es">Universidad Autónoma de Madrid</a> since July 2018, under the supervision of <a href="http://paginaspersonales.deusto.es/enrique.zuazua/">Enrique Zuazua</a>. 
+I am scheduled to defend my PhD thesis in April 2021. 
+I am also affiliated with the <a href="https://cmc.deusto.eus">Chair of Computational Mathematics</a> at Fundación Deusto in Bilbao. 
+My research has been centered on the analysis, control and applications of partial differential equations with moving interfaces (free boundaries), and more recently, on the applications of control theoretical paradigms to deep learning, using analytical and probabilistic tools, within a multidisciplinary approach drawing concepts and techniques from computer science, statistics, and applied mathematics.
 
-Borjan obtained a BSc (cum laude) in Applied Mathematics and Computer Science (2016), as well as an MSc (summa cum laude) in Applied Mathematics (2018) at the University of Bordeaux, France.
+I obtained a BSc (2016, cum laude) in Applied Mathematics and Computer Science, as well as an MSc (2018, summa cum laude) in Applied Mathematics from the <a href="https://www.u-bordeaux.fr">University of Bordeaux</a>.
 
 
 
