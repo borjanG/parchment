@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "The interplay of control and deep Learning"
-snippet: For general learning
+title: "Residual neural networks"
 tags: [math, stat, cs]
 ---
 
@@ -10,9 +9,9 @@ It is also increasingly present in consumer products such as  cameras, smartphon
 
 Machine-learning systems are used to identify objects in images, transcribe speech into text, match news items, and select relevant results of search. 
 
-<!-- <center>
+<center>
 <img  src="vid.gif"  width="1000px"  />
-</center> -->
+</center>
 
 From a mathematical point of view however, a large number of the employed models and techniques remain rather ad hoc.
 
@@ -24,17 +23,13 @@ When formulated mathematically, deep supervised learning [1,3] roughly consists 
 We are interested in approximating a function 
 
 $$
-
-f: \R^d \rightarrow \R^m
-
+f: \mathcal{X} \rightarrow \mathcal{Y}
 $$ 
 of some class, which is unknown a priori. 
 We have data: its values (possibly noisy) at $S$ distinct points:
-
 $$
 \{\vec{x}_i, \vec{y}_i = f(\vec{x}_i) \}_{i=1}^S
 $$
-
 We generally split the _S_ data points into _N_ training  data, and _S-N-1_ test data.
 In practice, _N_ is significantly bigger than _S-N-1_.
 
@@ -44,27 +39,21 @@ In practice, _N_ is significantly bigger than _S-N-1_.
 1. Proposing a candidate approximation 
 
 	$$
-
-    f_{A,b}(\cdot): \R^d \rightarrow \R^m
-    
+    f_{w,b}(\cdot): \mathcal{X} \rightarrow \mathcal{Y}
     $$ 
-    depending on tunable parameters _(A,b)_.
-    A popular candidate for such a function is (a projecton of) the solution $z_i(1)$ of a _neural network_, which in the simplest continuous-time context reads: 
+    depending on tunable parameters _(w,b)_.
+    A popular candidate for such a function is (a projecton of) the solution $z_i(1)$ of a _neural network_, which in the continuous-time context reads: 
 
 $$
-
 \begin{cases}
-	z_i'(t) &= \sigma(A(t)z_i(t)+b(t)) \quad \text{ in } (0, 1) \\
-	z_i(0) &= \vec{x}_i \in \R^d.
+	\mathbf{x}_i'(t) &= \sigma(w(t)\mathbf{x}_i(t)+b(t)) \quad \text{ in } (0, 1) \\
+	\mathbf{x}_i(0) &= \vec{x}_i \in \mathbf{R}^d.
 \end{cases}
+$$
+2.  Tune _(w,b)_ as to minimize the empirical risk: 
 
 $$
-2.  Tune _(A,b)_ as to minimize the empirical risk: 
-
-$$
-
-\sum_{i=1}^N \ell(f_{A,b}(\vec{x}_i), \vec{y}_i), \quad \ell \geq 0, \,\ell(x, x) = 0.
-
+\sum_{i=1}^N loss(f_{w,b}(\vec{x}_i), \vec{y}_i), \quad \ell \geq 0, \,\ell(x, x) = 0.
 $$ 
 
 This is called _training_.
@@ -73,13 +62,11 @@ As generally _N_ is rather large, the minimizer is computed via an iterative met
 3. A posteriori analysis: check if test error 
 
 $$
-
-\sum_{i=N+1}^{S} \ell(f_{A,b}(\vec{x}_i), \vec{y}_i)
-
+\sum_{i=N+1}^{S} loss(f_{w,b}(\vec{x}_i), \vec{y}_i)
 $$ 
 
 is small. 
-This is called _generalization_.
+When the a posteriori error (test error) is small, we refer to _generalization_.
 
 In the above, $\sigma$ is a fixed, non-decreasing Lipschitz-continuous activation function.
 
@@ -91,10 +78,9 @@ classification (labels take values in a discrete set), and regression (labels ta
 - The simplest forward Euler discretisation of the above system is called a _residual neural network_ (ResNet) with _L_ hidden layers:
 
 $$
-
 \begin{cases}
 z_i^{k+1} = z_i^k + \sigma(A^k z_i^k + b^k) &\text{ for } k = 0, \ldots, L-1 \\
-z_i^0 = \vec{x}_i \in \R^d.
+z_i^0 = \vec{x}_i \in \mathbf{R}^d.
 \end{cases}
 $$
 
