@@ -7,11 +7,11 @@ title: Vita
 
 <script>
 function hover(element) {
-  element.setAttribute('src', '{{site.baseurl}}/{{site.hover-picture}}');
+  element.setAttribute('src', '{{site.baseurl}}/{{site.profile-picture}}');
 }
 
 function unhover(element) {
-  element.setAttribute('src', '{{site.baseurl}}/{{site.profile-picture}}');
+  element.setAttribute('src', '{{site.baseurl}}/{{site.hover-picture}}');
 }
 </script>
 
