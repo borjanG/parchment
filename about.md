@@ -28,7 +28,7 @@ I obtained a BSc (2016, cum laude / mention Assez Bien) in Applied Mathematics a
 
 My <b>curriculum vitae</b> can be found <a href="{{site.baseurl}}/{{site.cv}}">here</a>.
 
-<h3 id="contact"; style="padding-bottom:2px">Contact</h3>
+<h3 id="contact">Contact</h3>
 
 <table>
   <tbody>
