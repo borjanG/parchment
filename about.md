@@ -45,12 +45,16 @@ My <b>curriculum vitae</b> can be found <a href="{{site.baseurl}}/{{site.cv}}">h
       <td>Universidad Autónoma de Madrid</td>
     </tr>
     <tr>
-      <td>24 Av. Universidades</td>
-      <td>28000 Madrid</td>
+      <td>Avda. Universidades 24</td>
+      <td>28049 Madrid</td>
     </tr>
     <tr>
       <td>48009 Bilbao</td>
-      <td>Tel: +33 533 514 802</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>surnamename@gmail.com</td>
+      <td>name.surname@uam.es</td>
     </tr>
   </tbody>
 </table>
