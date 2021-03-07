@@ -20,6 +20,6 @@ title: Talks
 - <a href="https://cmc.deusto.eus/wp-content/uploads/2019/05/slides_compressed.pdf">Control of perturbed porous medium flow</a>, <a href="http://benasque.org/2019pde/">8th Workshop on PDE, Optimal Design and Numerics</a>, Centro de Ciencias “Pedro Pascual”, Benasque (Spain), 23.08.2019
 - <a href="https://cmc.deusto.eus/wp-content/uploads/2019/05/ICMAT_Talk_Borjan.pdf">Control of linearized porous medium flow</a>, <a href="https://www.icmat.es/congresos/2019/HSP/">Workshop on homogenization, spectral theory and other topics in PDEs</a>, ICMAT Madrid (Spain), 06.05.2019
 - <a href="https://cmc.deusto.eus/wp-content/uploads/2019/05/conflex_borjan.pdf">Control of free boundary problems</a>, Second Network meeting of the ConFlex consortium, Bilbao (Spain), 20.02.2019. 
-I was awarded the <a href="https://cmc.deusto.eus/borjan-conflex-prize/">"Best rewiew and presentation prize"</a>. 
+I was awarded the <a href="https://cmc.deusto.eus/borjan-conflex-prize/">"Best review and presentation prize"</a>. 
 - <a href="https://cmc.deusto.eus/wp-content/uploads/2019/05/beamer_erlangen.pdf">Control and free boundaries</a>, Chair in Applied Mathematics 2 Seminar, Friedrich Alexander Universität Erlangen-Nürnberg (Germany), 20.01.2019
 
