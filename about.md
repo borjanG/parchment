@@ -34,7 +34,7 @@ My <b>curriculum vitae</b> can be found <a href="{{site.baseurl}}/{{site.cv}}">h
   <tbody>
     <tr>
       <td><strong>Main office</strong></td>
-      <td><strong>Alternative office</strong></td>
+      <td><strong>Second office</strong></td>
     </tr>
     <tr>
       <td>Chair of Computational Mathematics</td>
