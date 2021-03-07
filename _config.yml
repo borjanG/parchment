@@ -28,8 +28,8 @@ navbar:
    link: "talks"
  - name: "Code"
    absolute-link: "https://github.com/borjanG"
- - name: "Contact"
-   link: "contact"
+ - name: "Things"
+   link: "things"
 
 markdown: kramdown
 kramdown:
