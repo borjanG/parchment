@@ -28,13 +28,13 @@ I obtained a BSc (2016, cum laude) in Applied Mathematics and Computer Science, 
 
 My <b>curriculum vitae</b> can be found <a href="{{site.baseurl}}/{{site.cv}}">here</a>.
 
-<section>
+<header>
 <h2>Contact</h2>
+</header>
 <b>Address:</b> Departamento de Matemáticas, Universidad Autónoma de Madrid, 28049 Madrid, Spain
 
 <b>Email:</b> 
 <span class="color-gray">myname.mysurname@uam.es</span> or <span class="color-gray">mysurnamemyname@gmail.com</span> 
-</section>
 
 
 
