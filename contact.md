@@ -1,12 +1,7 @@
 ---
 layout: default
-title: Contact
+title: Things
 ---
-
-<b>Address:</b> Departamento de Matemáticas, Universidad Autónoma de Madrid, 28049 Madrid, Spain
-
-<b>Email:</b> 
-<span class="color-gray">myname.mysurname@uam.es</span> or <span class="color-gray">mysurnamemyname@gmail.com</span> 
 
 Connect with me on <a href="https://twitter.com/g_borjan">Twitter</a> / <a href="https://www.linkedin.com/in/borjan-geshkovski-5b8904133/"> Linkedin</a> / <a href="https://www.researchgate.net/profile/Borjan-Geshkovski">ResearchGate</a>: 
 
