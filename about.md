@@ -19,7 +19,7 @@ function unhover(element) {
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}" onmouseover="hover(this);" onmouseout="unhover(this);" float = "left" />
 
 I am a PhD student and <a href="https://www.conflex.org">Marie Sklodowska-Curie Fellow</a> at the <a href="http://www.uam.es/UAM/Home.htm?language=es">Universidad Autónoma de Madrid</a> since July 2018, under the supervision of <a href="http://paginaspersonales.deusto.es/enrique.zuazua/">Enrique Zuazua</a>. 
-I am scheduled to defend my PhD thesis in April or May of 2021. 
+I am scheduled to defend my PhD thesis in April 2021. 
 I am also affiliated with the <a href="https://cmc.deusto.eus">Chair of Computational Mathematics</a> at Fundación Deusto in Bilbao.
 
 My current research is centered on the interplay of deep learning and control theory. I am also interested in other topics of applied mathematics, such as the  analysis, control and applications of partial differential equations with moving interfaces (free boundaries).

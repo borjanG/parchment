@@ -184,18 +184,13 @@ code {
 	}
 }
 
-h3{
-    margin-top: 0em;
-    margin-bottom: 5em;
-}
-
 //  typography
 
 .content {
     line-height: 1.5;
     h1, h2, h3, h4 {
         margin-block-start: 2em !important;
-        margin-block-end: 0em !important;
+        margin-block-end: 1em !important;
     }
     h1:after, h2:after, h3:after, h4:after {
         content: '';
@@ -213,7 +208,7 @@ h3{
         position: relative;
         list-style: none;
         margin-top: 5px;
-        margin-bottom: 5px;
+        margin-bottom: 10px;
     }
     ul > li {
         margin: 5px 0 5px 0;
