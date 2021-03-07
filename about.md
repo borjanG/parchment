@@ -24,13 +24,26 @@ I am also affiliated with the <a href="https://cmc.deusto.eus">Chair of Computat
 
 My current research is centered on the interplay of deep learning and control theory. I am also interested in other topics of applied mathematics, such as the  analysis, control and applications of partial differential equations with moving interfaces (free boundaries).
 
-I obtained a BSc (2016, cum laude) in Applied Mathematics and Computer Science, as well as an MSc (2018, summa cum laude) in Applied Mathematics, from the <a href="https://www.u-bordeaux.fr">University of Bordeaux</a>.
+I obtained a BSc (2016, cum laude / mention Assez Bien) in Applied Mathematics and Computer Science, as well as an MSc (2018, summa cum laude / mention Très Bien) in Applied Mathematics, from the <a href="https://www.u-bordeaux.fr">University of Bordeaux</a>.
 
 My <b>curriculum vitae</b> can be found <a href="{{site.baseurl}}/{{site.cv}}">here</a>.
 
 <section>
-<h2>WWF History</h2>
-<p>The World Wide Fund for Nature (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>
+<h2>Contact</h2>
+<table style="width:100%">
+  <tr><b>Main Office:</b> 
+    <th>Despacho 613</th>
+    <th>Departamento de Matemáticas,</th> 
+    <th>Universidad Autónoma de Madrid,</th>
+    <th>28049 Madrid, Spain</th>
+  </tr>
+   <tr><b>Main Office:</b> 
+    <th>Despacho 613</th>
+    <th>Departamento de Matemáticas,</th> 
+    <th>Universidad Autónoma de Madrid,</th>
+    <th>28049 Madrid, Spain</th>
+  </tr>
+</table>
 </section>
 
 
