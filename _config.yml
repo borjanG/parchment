@@ -12,6 +12,7 @@ footer_text: ""
 profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
 hover-picture: assets/hover.jpg
+cv: assets/CV-Geshkovski.pdf
 
 permalink: /:year-:month-:day-:title/
 sass:
