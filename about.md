@@ -28,13 +28,11 @@ I obtained a BSc (2016, cum laude) in Applied Mathematics and Computer Science, 
 
 My <b>curriculum vitae</b> can be found <a href="{{site.baseurl}}/{{site.cv}}">here</a>.
 
-<header>
-<h2>Contact</h2>
-</header>
-<b>Address:</b> Departamento de Matemáticas, Universidad Autónoma de Madrid, 28049 Madrid, Spain
+<section>
+<h2>WWF History</h2>
+<p>The World Wide Fund for Nature (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>
+</section>
 
-<b>Email:</b> 
-<span class="color-gray">myname.mysurname@uam.es</span> or <span class="color-gray">mysurnamemyname@gmail.com</span> 
 
 
 
