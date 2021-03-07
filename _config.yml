@@ -10,7 +10,7 @@ footer_url: ""
 footer_text: ""
 
 profile-picture: assets/profile.jpg
-favicon_location: assets/icon.ico
+favicon_location: assets/favicon.ico
 hover-picture: assets/hover.jpg
 cv: assets/CV-Geshkovski.pdf
 rapport_inria: assets/rapport_inria.pdf
