@@ -28,23 +28,32 @@ I obtained a BSc (2016, cum laude / mention Assez Bien) in Applied Mathematics a
 
 My <b>curriculum vitae</b> can be found <a href="{{site.baseurl}}/{{site.cv}}">here</a>.
 
-<section>
-<h2>Contact</h2>
-<table style="width:100%">
-  <tr><b>Main Office:</b> 
-    <th>Despacho 613</th>
-    <th>Departamento de Matemáticas,</th> 
-    <th>Universidad Autónoma de Madrid,</th>
-    <th>28049 Madrid, Spain</th>
-  </tr>
-   <tr><b>Main Office:</b> 
-    <th>Despacho 613</th>
-    <th>Departamento de Matemáticas,</th> 
-    <th>Universidad Autónoma de Madrid,</th>
-    <th>28049 Madrid, Spain</th>
-  </tr>
+<h2 id="contact">Contact</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Main office</strong></td>
+      <td><strong>Alternative office</strong></td>
+    </tr>
+    <tr>
+      <td>Institut des Maladies Neurodégénératives</td>
+      <td>Inria Bordeaux Sud-Ouest</td>
+    </tr>
+    <tr>
+      <td>Centre Broca Nouvelle-Aquitaine</td>
+      <td>200 Avenue de la Vieille Tour</td>
+    </tr>
+    <tr>
+      <td>146 rue Léo Saignat - CS 61292 - Case 28</td>
+      <td>33405 Talence</td>
+    </tr>
+    <tr>
+      <td>33076 Bordeaux cedex</td>
+      <td>Tel: +33 533 514 802</td>
+    </tr>
+  </tbody>
 </table>
-</section>
 
 
 
