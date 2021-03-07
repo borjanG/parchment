@@ -37,19 +37,19 @@ My <b>curriculum vitae</b> can be found <a href="{{site.baseurl}}/{{site.cv}}">h
       <td><strong>Alternative office</strong></td>
     </tr>
     <tr>
-      <td>Institut des Maladies Neurodégénératives</td>
-      <td>Inria Bordeaux Sud-Ouest</td>
+      <td>Chair of Computational Mathematics</td>
+      <td>Departamento de Matemáticas</td>
     </tr>
     <tr>
-      <td>Centre Broca Nouvelle-Aquitaine</td>
-      <td>200 Avenue de la Vieille Tour</td>
+      <td>Universidad de Deusto</td>
+      <td>Universidad Autónoma de Madrid</td>
     </tr>
     <tr>
-      <td>146 rue Léo Saignat - CS 61292 - Case 28</td>
-      <td>33405 Talence</td>
+      <td>24 Av. Universidades</td>
+      <td>28000 Madrid</td>
     </tr>
     <tr>
-      <td>33076 Bordeaux cedex</td>
+      <td>48009 Bilbao</td>
       <td>Tel: +33 533 514 802</td>
     </tr>
   </tbody>
