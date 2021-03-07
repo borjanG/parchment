@@ -10,7 +10,7 @@ Connect with me on <a href="https://twitter.com/g_borjan">Twitter</a> / <a href=
 
 </center>
 
-<a class="twitter-timeline" href="https://twitter.com/LAbNewz" width="600"
+<a class="twitter-timeline" href="https://twitter.com/g_borjan" width="600"
         height="150"
         data-widget-id="537334369015562240">
         Tweets by @LAbNewz</a>
