@@ -13,6 +13,8 @@ profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
 hover-picture: assets/hover.jpg
 cv: assets/CV-Geshkovski.pdf
+rapport_inria: assets/rapport_inria.pdf
+rapport_harmonique: assets/rapport_harmonique.pdf
 
 permalink: /:year-:month-:day-:title/
 sass:
