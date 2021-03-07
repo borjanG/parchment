@@ -12,11 +12,9 @@ Connect with me on <a href="https://twitter.com/g_borjan">Twitter</a> / <a href=
 
 <center>
 <a class="twitter-timeline" href="https://twitter.com/g_borjan" width="600"
-        height="300"
+        height="500"
         data-widget-id="537334369015562240">
         Tweets by @borjanG</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-      <!--
-          <span class="style14">&gt;&gt;</span><span class="style13 style14"><strong>Finally...</strong>  <span class="style22">I am updating this website!</span></span>    <p align="justify" class="testo"><span class="style14">&gt;&gt;</span><span class="style13 style14"><strong>New Matlab and C++ Toolbox! </strong><span class="style22"><span class="style24"><a href="http://cbcl.mit.edu/gurls/" target="_blank">GURLS: a Least Squares Toolbox for Supervised Learning</a></span></span></span><strong><br>    </strong><br>      <span class="style14">&gt;&gt;</span><span class="style13 style14"><strong>Old News:</strong>  <span class="style22">I am currently full time at MIT, so that's where you find me.</span></span><br>      <br>      <span class="style14">&gt;&gt;</span><span class="style13 style14"><strong>RegMet@BISS:</strong> <span class="style22">The one week grad course &quot;<a href="http://www.disi.unige.it/dottorato/corsi/RegMet2012/" target="_blank">Regularization Methods for High Dimensional Learning</a>&quot; usually held in Genova this year has been hosted at the</span><a href="http://www.cs.unibo.it/projects/biss2012/" target="_blank"> Bertinoro International Spring School. </a></span>    <p align="justify" class="testo"><span class="style14">&gt;&gt;</span><span class="style13 style14"><span class="style22">Check the webpage of:</span> <span class="style14"><a href="http://cbcl.mit.edu/IIT@MIT/IIT@MIT.html" target="_blank">the IIT-MIT Computational and Statistical Learning lab!</a></span></span><br>      <br>      <span class="style14">&gt;&gt;</span><span class="style13 style14"><span class="style22"><strong>BMSS 2012</strong>:</span><a href="http://cbcl.mit.edu/seminars-workshops/index.html" target="_blank">The Brains &amp; Machines Seminar Series 2011 is being organized by the IIT-MIT lab </a></span><br>      <br>      -->
-        </a>
+</a>
 </center>
